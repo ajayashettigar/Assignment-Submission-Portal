@@ -31,7 +31,7 @@ Welcome to the Assignment Submission Portal API! This document provides a compre
 Clone the Repository:
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/ajayashettigar/Assignment-Submission-Portal)>
 cd <repository-folder>
 ```
 
@@ -294,6 +294,3 @@ python app.py
 ```
 
 4. Use Postman or any API testing tool to interact with the endpoints as described above.
-```
-
-You can copy and paste this into your GitHub repository's README file. Let me know if you need any further adjustments!
