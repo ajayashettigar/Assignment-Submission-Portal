@@ -56,9 +56,9 @@ Access the API:
 
 The API will be accessible at `http://localhost:5000`.
 
-<u>## API Endpoints</u>
+## API Endpoints
 
-<u>### User Endpoints</u>
+### User Endpoints
 
 #### User Registration
 
@@ -153,7 +153,7 @@ The API will be accessible at `http://localhost:5000`.
 }
 ```
 
-<u>### Admin Endpoints</u>
+### Admin Endpoints
 
 #### Admin Registration
 
@@ -280,11 +280,11 @@ The API will be accessible at `http://localhost:5000`.
 }
 ```
 
-<u>## Error Handling</u>
+## Error Handling
 
 All endpoints return appropriate error messages for various failure scenarios, including missing fields and invalid credentials. Ensure to check the response status codes and messages for debugging.
 
-<u>## Running the Application</u>
+## Running the Application
 
 1. Start your MongoDB server.
 2. Ensure all necessary Python packages are installed.
