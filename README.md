@@ -33,7 +33,7 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/ajayashettigar/Assignment-Submission-Portal
-cd assignment submission portal
+cd assignment\submission\portal
 ```
 
 Set Environment Variables (Optional):
