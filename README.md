@@ -31,8 +31,8 @@ Welcome to the Assignment Submission Portal API! This document provides a compre
 Clone the Repository:
 
 ```bash
-git clone <[repository-url](https://github.com/ajayashettigar/Assignment-Submission-Portal)>
-cd <repository-folder>
+git clone https://github.com/ajayashettigar/Assignment-Submission-Portal
+cd 
 ```
 
 Set Environment Variables (Optional):
