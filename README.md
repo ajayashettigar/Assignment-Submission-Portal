@@ -1,6 +1,6 @@
 # Assignment-Submission-Portal
 
-```markdown
+
 # Assignment Submission Portal API
 
 Welcome to the Assignment Submission Portal API! This document provides a comprehensive guide on how to interact with the API for user and admin functionalities.
