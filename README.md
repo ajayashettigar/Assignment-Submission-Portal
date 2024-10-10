@@ -1,6 +1,3 @@
-# Assignment-Submission-Portal
-
-
 # Assignment Submission Portal API
 
 Welcome to the Assignment Submission Portal API! This document provides a comprehensive guide on how to interact with the API for user and admin functionalities.
@@ -32,7 +29,7 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/ajayashettigar/Assignment-Submission-Portal
-cd 
+cd assignment submission portal
 ```
 
 Set Environment Variables (Optional):
