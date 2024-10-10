@@ -2,6 +2,10 @@
 
 Welcome to the Assignment Submission Portal API! This document provides a comprehensive guide on how to interact with the API for user and admin functionalities.
 
+This project is a backend system for an **Assignment Submission Portal**, designed to facilitate assignment management between **users** and **admins**. The portal allows users to upload assignments, while admins can review and either accept or reject these submissions.
+
+Each assignment consists of a simple object, including details like the `userId`, the task description, and the admin responsible for reviewing it. Admins can view all assignments tagged to them and take action based on the content provided by the users. The system ensures smooth interaction with proper authentication and session management, making it secure and easy to use for both parties.
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
